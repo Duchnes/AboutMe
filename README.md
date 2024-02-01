@@ -1,2 +1,2 @@
 # GhostFiles
-HTML File Server
+HTML "About Me" page
