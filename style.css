@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: hsl(30, 3%, 14%);
+    overflow: hidden;
+}
+
+
+.portfolio-box {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(22deg, #330775, #7f0ba6);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+.nickname-box {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    border-radius: 8px;
+    color: #e1e1e1;
+}
+
+.btn-style {
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding: 10px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    border: 5px solid #0000006c;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+}
+
+.social-link {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #e1e1e1;
+    
+}
